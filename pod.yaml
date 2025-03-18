@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/newimage:latest   #only the latest image only deploy as per mentioned here
+          image: pdeveopsh/newimage:latest   #only the latest image only deploy as per mentioned here
           imagePullPolicy: Always
